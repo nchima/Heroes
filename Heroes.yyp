@@ -104,6 +104,7 @@
     {"id":{"name":"spr_entrance_particle","path":"sprites/spr_entrance_particle/spr_entrance_particle.yy",},"order":8,},
     {"id":{"name":"snd_baddie_footstep","path":"sounds/snd_baddie_footstep/snd_baddie_footstep.yy",},"order":0,},
     {"id":{"name":"spr_gate_iron_2","path":"sprites/spr_gate_iron_2/spr_gate_iron_2.yy",},"order":6,},
+    {"id":{"name":"rm_level_3","path":"rooms/rm_level_3/rm_level_3.yy",},"order":3,},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},"order":1,},
     {"id":{"name":"spr_hud_coin","path":"sprites/spr_hud_coin/spr_hud_coin.yy",},"order":0,},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"order":3,},
@@ -137,6 +138,7 @@
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"roomId":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
+    {"roomId":{"name":"rm_level_3","path":"rooms/rm_level_3/rm_level_3.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
